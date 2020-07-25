@@ -1,4 +1,4 @@
-<h3>Vitor Bafoni - Desenvolvedor Front-end e grande admirador de UI e UX Design</h3>
+<h3><p>Vitor Bafoni - Desenvolvedor Front-end e grande admirador de UI e UX Design</p></h3>
 
 - Aceitando propostas de trabalho
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande
@@ -6,7 +6,7 @@
 <br>
 <br>
 <div>
-  <p><b>Contatos:</b></p>
+  <h3><p>Contatos:</p></h3>
   
   - Celular/WhatsApp: (13) 99778-7398<br>
   - E-mail: vitor.bafoni@gmail.com<br>
