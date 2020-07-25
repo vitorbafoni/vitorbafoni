@@ -3,6 +3,8 @@
 - Aceitando propostas de trabalho
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande
 
+<br>
+<br>
 <div>
   <p><b>Contatos:</b></p>
   
