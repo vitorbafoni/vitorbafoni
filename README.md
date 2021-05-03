@@ -1,6 +1,6 @@
   <p>VITOR BAFONI - Desenvolvedor Front-end e grande admirador de UI e UX Design</p>
 
-- Aceitando propostas de trabalho
+- Atualmente atuando na Accenture, explorando a plataforma ServiceNow.
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande
 
 <br>
